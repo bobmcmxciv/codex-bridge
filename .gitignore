@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+accounts/
+logs/
+_vertest/
+model-watch-state.json
+*.bak-*
+__pycache__/
+.pytest_cache/
+tests/.live-failover/
